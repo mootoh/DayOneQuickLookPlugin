@@ -3,6 +3,9 @@ DayOne QuickLook Plugin
 
 Provide a preview for [Day One](http://dayoneapp.com/) Mac app.
 
+![from Finder](https://raw.github.com/mootoh/DayOneQuickLookPlugin/master/doc/fromFinder.png)
+![from Spotlight](https://raw.github.com/mootoh/DayOneQuickLookPlugin/master/doc/fromSpotlight.png)
+
 Licence
 -------
 
