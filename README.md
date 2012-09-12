@@ -6,6 +6,14 @@ Provide a preview for [Day One](http://dayoneapp.com/) Mac app.
 ![from Finder](https://raw.github.com/mootoh/DayOneQuickLookPlugin/master/doc/fromFinder.png)
 ![from Spotlight](https://raw.github.com/mootoh/DayOneQuickLookPlugin/master/doc/fromSpotlight.png)
 
+Install
+-------
+
+Download [the zip file](https://github.com/downloads/mootoh/DayOneQuickLookPlugin/DayOneQuickLookPlugin.qlgenerator.zip) and unarchive it. Then:
+
+    % mkdir ~/Library/QuickLook
+    % cp -a DayOneQuickLookPlugin.qlgenerator ~/Library/QuickLook/
+
 Licence
 -------
 
